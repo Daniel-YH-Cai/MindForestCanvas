@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import MapCanvas from "./Components/Canvas";
+import Canvas from "./Components/Canvas";
 
 ReactDOM.render(
-    <MapCanvas />,
+    <Canvas />,
   document.getElementById('root')
 );
 
